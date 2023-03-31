@@ -1,0 +1,17 @@
+.category{
+    color: #e6e3df;
+}
+
+.top-buffer {
+    margin: 10px 20px;
+}
+
+input {
+    background-color: #e6e3df;
+    border-radius: 0.25rem ;
+}
+
+body{
+    font-size: 1rem;
+}
+
